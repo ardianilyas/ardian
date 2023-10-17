@@ -1,0 +1,62 @@
+[
+  {
+    "name": "HTML",
+    "desc" : "Hypertext Markup Language, is a markup language for the web that defines the structure of web pages."
+  },
+  {
+    "name": "CSS",
+    "desc" : "Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML." 
+  },
+  {
+    "name": "JavaScript",
+    "desc" : "JavaScript (JS) is a lightweight interpreted (or just-in-time compiled) programming language with first-class functions." 
+  },
+  {
+    "name": "PHP",
+    "desc" : "PHP is a widely-used open source general-purpose scripting language that is especially suited for web." 
+  },
+  {
+    "name": "Bootstrap",
+    "desc" : "Bootstrap is the most popular CSS Framework for developing responsive and mobile-first websites."
+  },
+  {
+    "name": "Tailwindcss",
+    "desc" : "A utility-first CSS framework packed with classes"
+  },
+  {
+    "name": "React.js",
+    "desc" : "The React.js framework is an open-source JavaScript framework and library developed by Facebook."
+  },
+  {
+    "name": "Vue.js",
+    "desc" : "Vue is a JavaScript framework that facilitates the UI (user interface) development of websites and single-page applications."
+  },
+  {
+    "name": "Next.js",
+    "desc" : "Next. js is a React framework for building full-stack web applications."
+  },
+  {
+    "name": "Node.js",
+    "desc" : "Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine."
+  },
+  {
+    "name": "Express.js",
+    "desc" : "Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications."
+  },
+  {
+    "name": "Laravel",
+    "desc" : "Laravel is a web application framework with expressive, elegant syntax."
+  },
+  {
+    "name": "Livewire",
+    "desc" : "Livewire is a fullstack framework that simplifies the complexity that Vue or React brings up."
+  },
+  {
+    "name": "MySQL",
+    "desc" : "MySQL is a relational database management system based on SQL – Structured Query Language."
+  },
+  {
+    "name": "Figma",
+    "desc" : "Figma is the leading collaborative design tool for building meaningful products."
+  }
+]
