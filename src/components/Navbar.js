@@ -27,7 +27,7 @@ export default function Navbar() {
               )}
           </button>
         </div>
-        <ul className={`${isOpen ? 'flex' : 'hidden'} md:flex flex-col md:flex-row gap-2 mt-4 md:mt-0`}>
+        <ul className={`${isOpen ? 'flex' : 'hidden'} md:flex flex-col md:flex-row gap-4 mt-4 md:mt-0`}>
           <Link href={'/'} className={currentRoute == '/' ? 'text-blue-600' : 'hover:text-blue-600'} >Home</Link>
           <Link href={'/about'} className={currentRoute == '/about' ? 'text-blue-600' : 'hover:text-blue-600'}>About</Link>
           <Link href={'/skills'} className={currentRoute == '/skills' ? 'text-blue-600' : 'hover:text-blue-600'}>Skills</Link>
