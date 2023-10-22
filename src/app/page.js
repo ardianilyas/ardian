@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Home() {
   return (
     <div className="container flex flex-col w-full justify-center items-center mt-16">
-      <div className="absolute -z-10 -right-10 top-0 w-72 h-72 md:w-96 md:h-96 mix-blend-multiply opacity-70 filter blur-xl bg-yellow-400 rounded-full"></div>
+      <div className="absolute -z-10 right-0 top-0 w-72 h-72 md:w-96 md:h-96 mix-blend-multiply opacity-70 filter blur-xl bg-yellow-400 rounded-full"></div>
 
       <div className="absolute -z-10 -left-10 translate-y-20 w-72 h-72 md:w-96 md:h-96 mix-blend-multiply opacity-70 filter blur-xl bg-sky-400 rounded-full"></div>
 
